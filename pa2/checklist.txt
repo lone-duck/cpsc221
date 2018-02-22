@@ -1,0 +1,10 @@
+    
+  
+
+    
+    
+
+    
+    ArrayClass(const ArrayClass& ac);
+
+    ArrayClass& operator=(const ArrayClass& ac);
